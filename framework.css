@@ -1,0 +1,191 @@
+/* start box */
+.d-flex {
+    display: flex;
+}
+.align-c {
+    align-items: center;
+}
+.jus-sb{
+    justify-content: space-between;
+}
+.fl-dc {
+    flex-direction: column;
+}
+.d-grid {
+    display: grid;
+}
+.grid-tc{
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+}
+.gap {
+    gap: 20px;
+}
+.conten-b  {background-color: white;}
+/* end box */
+/* start colors */
+
+
+/* end colors */
+/* start padding + margin */
+.p-20 {
+    padding: 20px;
+}
+.m-20 {
+margin: 20;
+}
+.pl-20 {
+    padding-left: 20px;
+}
+.pb-20 {
+    padding-bottom: 20px;
+}
+.pr-20 {
+    padding-right: 20px;
+}
+.ml-20 {
+    margin-left: 20px;
+} 
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.p-10 {
+    padding: 10px;
+}
+.mb-100{
+    margin-bottom: 50px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.pr-30 {
+    padding-right: 30px;
+}
+.p-5 {
+    padding: 5px;
+}
+
+/* end padding + margin */
+/* start position */
+.p-relative {
+    position:relative
+}
+.p-absolute {
+    position: absolute;
+}
+
+/* end position *
+/* start font  */
+.txt-c {
+    text-align: center;
+}
+.txt-r {
+    text-align: right;
+}
+.font-s20 {
+    font-size: 20px;
+}
+.translate-50 {
+    transform: translateX(-50%);
+}
+/* end font  */
+/* start border  */
+.b-n {
+    border:none
+}
+.b-2 {
+    border:1px solid #777
+}
+.br-8 {
+    border-radius: 8px;
+}
+.br-half {
+    border-radius: 50%;
+}
+.c-777{
+    color: #777;
+}
+
+/* end border  */
+/* start colors */
+.c-137AFF {
+   color: #137AFF;
+}
+.c-137AF {
+background-color: #0075FF;
+}
+.c-CCE3FF {
+    background-color: #CCE3FF;
+}
+.c-0075FF{
+    background-color: #0075FF;
+}
+.c-FDECCE {
+    background-color: #FDECCE;
+}
+.c-F59E0B {
+    color: #F59E0B;
+}
+.c-F59E0 {
+    background-color: #F59E0B;
+}
+.c-D3F3DF {
+    background-color: #D3F3DF;
+}
+
+.c-22C55E {
+   color: #22C55E;
+}
+.c-22C55 {
+   background-color: #22C55E;
+ }
+ .c-F44336 {
+    color: #F44336;
+ }
+.c-ccc{
+    background-color: #ccc;
+}
+.c-black {
+    color: black;
+}
+.c-1DA1F2 {
+    background-color: #1DA1F2;
+}
+.c-1DA1F {
+    color: #1DA1F2;
+}
+.c-D2ECFC {
+    background-color: #D2ECFC;
+}
+.c-1877F2 {
+    background-color:#1877F2 ;
+}
+.c-D1E4FC {
+    background-color:#D1E4FC ;
+}
+.c-FF0000 {
+    background-color:#FF0000 ;
+}
+.c-FFCCCC {
+    background-color:#FFCCCC;
+}
+.c-FF000 {
+   color:#FF0000;
+}
+.c-0077B5 {
+    background-color: #0077B5;
+}
+
+.c-0077B {
+    
+    color: #0077B5;
+}
+.c-cc{
+   color: #ccc;
+}
+/* end colors */
